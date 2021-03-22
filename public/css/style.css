@@ -1,0 +1,17 @@
+.rouge{
+    color: red;
+}
+.bleu{
+    color: blue;
+}
+.gras{
+    font-weight: bold;
+    background-color: red;
+    font-size: 3em;
+}
+.sou{
+    text-decoration: underline;
+}
+.it{
+    font-style:italic ;
+}
